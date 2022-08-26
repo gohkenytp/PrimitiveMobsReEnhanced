@@ -1,0 +1,12 @@
+{
+  "type": "primitivemobsr:primitive_entity_modifier",
+  "biomes": "minecraft:mushroom_fields",
+  "blacklist_biomes": [],
+  "spawn": {
+    "type": "primitivemobsr:dodo",
+    "maxCount": 2,
+    "minCount": 1,
+    "weight": 8
+  },
+  "mob_category": "creature"
+}
