@@ -1,0 +1,12 @@
+{
+  "type": "primitivemobsr:primitive_entity_modifier",
+  "biomes": "#minecraft:is_forest",
+  "blacklist_biomes": [],
+  "spawn": {
+    "type": "primitivemobsr:skeleton_warrior",
+    "maxCount": 5,
+    "minCount": 1,
+    "weight": 9
+  },
+  "mob_category": "monster"
+}

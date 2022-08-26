@@ -1,0 +1,14 @@
+{
+  "item.primitivemobsr.grove_sprite_spawn_egg": "Grove Sprite Spawn Egg",
+  "entity.primitivemobsr.grove_sprite": "Grove Sprite",
+  "item.primitivemobsr.wonder_sap": "Wonder Sap",
+  "item.primitivemobsr.skeleton_warrior_spawn_egg": "Skeleton Warrior Spawn Egg",
+  "entity.primitivemobsr.skeleton_warrior": "Skeleton Warrior",
+  "item.primitivemobsr.dodo_egg": "Dodo Egg",
+  "item.primitivemobsr.dodo_meat": "Dodo Meat",
+  "item.primitivemobsr.cooked_dodo_meat": "Cooked Dodo Meat",
+  "item.primitivemobsr.dodo_spawn_egg": "Dodo Spawn Egg",
+  "entity.primitivemobsr.dodo": "Dodo",
+  "entity.primitivemobsr.dodo_egg": "Dodo Egg",
+  "itemGroup.pmr_tab": "Primitive Mobs ReEnhanced"
+}

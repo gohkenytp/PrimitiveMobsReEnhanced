@@ -1,0 +1,12 @@
+{
+  "type": "primitivemobsr:primitive_entity_modifier",
+  "biomes": "#minecraft:is_forest",
+  "blacklist_biomes": [],
+  "spawn": {
+    "type": "primitivemobsr:grove_sprite",
+    "maxCount": 4,
+    "minCount": 2,
+    "weight": 12
+  },
+  "mob_category": "creature"
+}

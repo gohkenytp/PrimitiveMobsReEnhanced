@@ -1,0 +1,52 @@
+{
+  "entity.grovesprite.angry": {
+    "sounds": [
+      {
+        "name": "primitivemobsr:entity/grovesprite/angry1"
+      }
+    ]
+  },
+  "entity.grovesprite.death": {
+    "sounds": [
+      {
+        "name": "primitivemobsr:entity/grovesprite/death1",
+        "name": "primitivemobsr:entity/grovesprite/death2"
+      }
+    ]
+  },
+  "entity.grovesprite.friend": {
+    "sounds": [
+      {
+        "name": "primitivemobsr:entity/grovesprite/friend1",
+        "name": "primitivemobsr:entity/grovesprite/friend2"
+      }
+    ]
+  },
+  "entity.grovesprite.hurt": {
+    "sounds": [
+      {
+        "name": "primitivemobsr:entity/grovesprite/hurt1",
+        "name": "primitivemobsr:entity/grovesprite/hurt2",
+        "name": "primitivemobsr:entity/grovesprite/hurt3"
+      }
+    ]
+  },
+  "entity.grovesprite.idle": {
+    "sounds": [
+      {
+        "name": "primitivemobsr:entity/grovesprite/idle1",
+        "name": "primitivemobsr:entity/grovesprite/idle2",
+        "name": "primitivemobsr:entity/grovesprite/idle3"
+      }
+    ]
+  },
+  "entity.grovesprite.thanks": {
+    "sounds": [
+      {
+        "name": "primitivemobsr:entity/grovesprite/thanks1",
+        "name": "primitivemobsr:entity/grovesprite/thanks2",
+        "name": "primitivemobsr:entity/grovesprite/thanks3"
+      }
+    ]
+  }
+}
