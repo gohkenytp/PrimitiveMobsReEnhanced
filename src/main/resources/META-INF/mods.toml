@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+[[mods]]
+modId="primitivemobsr"
+version="${file.jarVersion}"
+displayName="Primitive Mobs ReEnhanced"
+authors="gohkenytp"
+
+description='''
+A remake to Primitive Mobs
+'''
+
+[[dependencies.primitivemobsr]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.primitivemobsr]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
